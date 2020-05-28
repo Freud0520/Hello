@@ -1,3 +1,3 @@
 # Rocket Elevators
 
-Lancement des activite en ligne de Rocket  Elevator dans le cadre de la formation Codeboxx, Genesis.
+Lancement des activites en ligne de Rocket  Elevator dans le cadre de la formation Codeboxx, Genesis.
